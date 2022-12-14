@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @RitchieHollis
-Currently learning C++/Java with intention to become a dev someday and some Python 4fun.
+Currently learning C++ and Java/Angular and looking for an entry-level job/internship in back end/DevOps (remote - Belgium/Poland, stationary - Hainaut/Brussels)
 20 yo/ Belgium-Poland
 
-Always finding pleasure while exploring and learning new stuff, always excited in collaborating for interesting projects (not now, but in the future. It's always nice to develop
-new skills and gaining experience)
+Personal mini-projects here
 
 <!---
 RitchieHollis/RitchieHollis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
