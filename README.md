@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RitchieHollis
-Currently learning C++ and Java and looking for an entry-level job/internship in back end/DevOps (remote - Belgium/Poland, stationary - Hainaut/Brussels)
+Currently learning C/C++ and Assembler, looking for an entry-level job/internship in software analysis/reverse engineering/cybersecurity
 20 yo/ Belgium-Poland
 
 Personal mini-projects here
