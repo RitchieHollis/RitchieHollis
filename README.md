@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RitchieHollis
-Currently learning C/C++ and Assembler, looking for an entry-level job/internship in software analysis/reverse engineering/cybersecurity
-20 yo/ Belgium-Poland
+Currently learning Zig and x86/RISC V Assembly, looking for an entry-level job/internship in software analysis/reverse engineering/cybersecurity
+22 yo/ Belgium-Poland
 
 Personal mini-projects here
 
